@@ -1,0 +1,21 @@
+body{
+    background-color: #caa05a;
+}
+
+ul{
+    display: inline-block;
+}
+
+
+.card{
+    margin: 50px;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 360px;
+}
+
+.card-group{
+    width: 1200px;
+}
