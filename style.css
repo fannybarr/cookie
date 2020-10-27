@@ -20,6 +20,32 @@ ul{
     width: 1200px;
 }
 
+.card{
+  margin: 10px;    
+  padding: 3px;
+  float: right;
+    
+}
+
+
+.card-title{
+  margin: 3px;
+  color: white;
+  background-color: #726c6c44;
+}
+
+.card-text{
+  margin: 3px;
+  color: white;
+  background-color: #726c6c44;
+}
+
+.card-bg{
+  margin: 10px;    
+  padding: 3px;
+  float: left;
+}
+
 .site-footer
 {
   background-color:#26272b;
